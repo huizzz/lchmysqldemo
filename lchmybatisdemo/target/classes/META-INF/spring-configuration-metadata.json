@@ -1,0 +1,36 @@
+{
+  "groups": [{
+    "name": "lch.mybatis",
+    "type": "com.lch.autoConfig.LchProperties",
+    "sourceType": "com.lch.autoConfig.LchProperties"
+  }],
+  "properties": [
+    {
+      "name": "lch.mybatis.driver",
+      "type": "java.lang.String",
+      "sourceType": "com.lch.autoConfig.LchProperties",
+      "defaultValue": "com.mysql.jdbc.Driver"
+    },
+    {
+      "name": "lch.mybatis.package-scanner",
+      "type": "java.lang.String",
+      "sourceType": "com.lch.autoConfig.LchProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "lch.mybatis.password",
+      "type": "java.lang.String",
+      "sourceType": "com.lch.autoConfig.LchProperties"
+    },
+    {
+      "name": "lch.mybatis.url",
+      "type": "java.lang.String",
+      "sourceType": "com.lch.autoConfig.LchProperties"
+    },
+    {
+      "name": "lch.mybatis.username",
+      "type": "java.lang.String",
+      "sourceType": "com.lch.autoConfig.LchProperties"
+    }
+  ]
+}
